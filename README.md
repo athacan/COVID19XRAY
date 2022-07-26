@@ -1,4 +1,4 @@
-#Covid-19 X-Ray Image Classification using tensorflow and keras
+Covid-19 X-Ray Image Classification using tensorflow and keras
 
 
 Gadjah Mada University
